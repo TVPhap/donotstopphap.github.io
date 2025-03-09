@@ -1,7 +1,3 @@
-# My Resume
-
-### Summary
-
-My resume I made using plain HTML5 & CSS.
-https://rjbasitali.github.io/
-
+Truong Dai Hoc Sai Gon SaiGon University
+TranVanPhap DCT124C6
+GiangVien Do Nhu Tai
